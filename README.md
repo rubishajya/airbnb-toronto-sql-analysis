@@ -83,8 +83,8 @@ airbnb-toronto-sql-analysis/
 
 **Rubisha Jyakhwo**  
 Aspiring Data Analyst | HackerRank SQL Advanced Certified  
-📍 Toronto, Canada  
-🔗 [LinkedIn Profile](#) 
+📍 London, Ontario   
+🔗 🔗 [LinkedIn Profile] (https://www.linkedin.com/in/rubisha-jyakhwo)
 
 ---
 
